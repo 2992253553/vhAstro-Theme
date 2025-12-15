@@ -65,6 +65,8 @@ export default {
     // 仅支持 SVG 且 SVG 需放在 public/assets/images/svg/ 目录下，填入文件名即可 <不需要文件后缀名>（封装了 SVG 组件 为了极致压缩 SVG）
     // 建议使用 https://tabler.io/icons 直接下载 SVG
     { text: 'Github', link: 'https://github.com/2992253553', icon: 'WebSite_github' },
+    { text: '哔哩哔哩', link: 'https://m.bilibili.com/space/526821569', icon: 'WebSite_bili' },
+    { text: 'MT论坛', link: 'https://bbs.binmt.cc/home.php?mod=space&uid=113003&do=profile', icon: 'WebSite_mt' }
     { text: '韩小韩API', link: 'https://api.vvhan.com', icon: 'WebSite_api' },
     { text: '每日热榜', link: 'https://hot.vvhan.com', icon: 'WebSite_hot' },
     { text: '骤雨重山图床', link: 'https://wp-cdn.4ce.cn', icon: 'WebSite_img' },
