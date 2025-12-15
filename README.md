@@ -4,7 +4,7 @@
 
 **「当极简主义遇上工程之美」**
 
-在线演示 ➡️ [https://www.vvhan.com](https://www.vvhan.com)
+在线演示 ➡️ [https://privat5418.de5.net](https://privat5418.de5.net)
 
 官方文档 ➡️ [vhAstro-Theme](https://www.vvhan.com/article/astro-theme-vhastro-theme)
 
@@ -62,7 +62,7 @@
 
 ### Vercel 自动部署
 
-[![vhAstro-Theme](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/uxiaohan/vhAstro-Theme)
+[![vhAstro-Theme](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/2992253553/vhAstro-Theme)
 
 ### Cloudflare Pages 自动部署
 
