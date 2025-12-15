@@ -66,11 +66,11 @@ export default {
     // 建议使用 https://tabler.io/icons 直接下载 SVG
     { text: 'Github', link: 'https://github.com/2992253553', icon: 'WebSite_github' },
     { text: '哔哩哔哩', link: 'https://m.bilibili.com/space/526821569', icon: 'WebSite_bili' },
-    { text: 'MT论坛', link: 'https://bbs.binmt.cc/home.php?mod=space&uid=113003&do=profile', icon: 'WebSite_mt' }
-    { text: '韩小韩API', link: 'https://api.vvhan.com', icon: 'WebSite_api' },
-    { text: '每日热榜', link: 'https://hot.vvhan.com', icon: 'WebSite_hot' },
-    { text: '骤雨重山图床', link: 'https://wp-cdn.4ce.cn', icon: 'WebSite_img' },
-    { text: 'HanAnalytics', link: 'https://analytics.vvhan.com', icon: 'WebSite_analytics' },
+    { text: 'MT论坛', link: 'https://bbs.binmt.cc/home.php?mod=space&uid=113003&do=profile', icon: 'WebSite_mt' },
+    { text: '韩小韩API', link: 'https://api.vvhan.com', icon: 'WebSite_api'' },
+    { text: '每日热榜', link: 'https://hot.vvhan.com', icon: 'WebSite_hot'' },
+    { text: '骤雨重山图床', link: 'https://wp-cdn.4ce.cn', icon: 'WebSite_img'' },
+    { text: 'HanAnalytics', link: 'https://analytics.vvhan.com', icon: 'WebSite_analytics'' },
   ],
   // 侧边栏展示
   AsideShow: {
