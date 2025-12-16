@@ -25,7 +25,9 @@ top: true
 
 ## 项目地址
 
-> 1、QQ 群下载：113445803 <br>2、GitHub 下载（推荐）：https://github.com/uxiaohan/vhAstro-Theme （谢谢你的star）
+> 1、[![COOLAPK](https://img.shields.io/badge/%E7%AD%B1%E7%AC%99%E5%A2%A8%E9%9C%B2-%E7%AD%B1%E7%AC%99%E5%A2%A8%E9%9C%B2?style=flat&logo=android&logoColor=FF4500&label=%E9%85%B7%E5%AE%89&color=FF4500
+)](http://www.coolapk.com/u/20080253)
+ <br>2、GitHub 下载（推荐）：https://github.com/uxiaohan/vhAstro-Theme （谢谢你的star）
 
 ## ✨ 功能特性
 
@@ -79,11 +81,11 @@ top: true
 
 ### Vercel 自动部署
 
-::btn[Vercel 一键部署]{link="https://vercel.com/new/clone?repository-url=https://github.com/uxiaohan/vhAstro-Theme"}
+::btn[Vercel 一键部署]{link="https://vercel.com/new/clone?repository-url=https://github.com/2992253553/vhAstro-Theme"}
 
 ### Cloudflare Pages 自动部署
 
-::btn[Cloudflare Pages 一键部署]{link="https://dash.cloudflare.com/?to=/:account/workers-and-pages/create/deploy-to-workers&repository=https://github.com/uxiaohan/vhAstro-Theme" type="warning"}
+::btn[Cloudflare Pages 一键部署]{link="https://dash.cloudflare.com/?to=/:account/workers-and-pages/create/deploy-to-workers&repository=https://github.com/2992253553/vhAstro-Theme" type="warning"}
 
 其他更多部署方式（简简单单闭眼部署），请参考 [Astro 官方文档](https://docs.astro.build/en/guides/integrations-guide/cloudflare/)。
 
@@ -91,11 +93,12 @@ top: true
 
 ```bash
 # 使用 pnpm
-pnpm create astro@latest --template uxiaohan/vhAstro-Theme astro-blog
+pnpm create astro@latest --template Privat5418/vhAstro-Theme astro-blog
 # 或者 yarn
-yarn create astro --template uxiaohan/vhAstro-Theme astro-blog
+yarn create astro --template
+Privat5418/vhAstro-Theme astro-blog
 # 或者 npm
-npm create astro@latest -- --template uxiaohan/vhAstro-Theme astro-blog
+npm create astro@latest -- --template Privat5418/vhAstro-Theme astro-blog
 # 进入项目目录
 cd astro-blog
 ```
